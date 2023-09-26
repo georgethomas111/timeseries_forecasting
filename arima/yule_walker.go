@@ -1,9 +1,9 @@
 package arima
 
 import (
+	"log"
 	"math"
 
-	"github.com/DoOR-Team/goutils/log"
 	"github.com/DoOR-Team/timeseries_forecasting/arima/matrix"
 )
 
